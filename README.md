@@ -1,2 +1,1 @@
-# Git-Parctice
-**Git Practice...
+# Git-Practice
