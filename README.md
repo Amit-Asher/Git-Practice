@@ -1,1 +1,1 @@
-# Git-Parctice
+# Git-Practice
